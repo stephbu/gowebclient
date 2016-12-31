@@ -15,6 +15,6 @@ func main() {
 
 	for {
 		fmt.Printf("Tick")
-		time.Sleep(30 * time.Second)
+		time.Sleep(5 * time.Second)
 	}
 }
